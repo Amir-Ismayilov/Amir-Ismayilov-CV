@@ -1,0 +1,5 @@
+@media screen and (max-width: 730px){
+    .inside_container {
+        gap: 0;
+    }
+}
